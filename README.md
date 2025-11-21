@@ -185,14 +185,4 @@ Implement:
 
 ---
 
-# 🚀 **How to Run**
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo.git
-
-cd your-repo
-
-# Run any assignment file
-python3 filename.py
-```
+`
